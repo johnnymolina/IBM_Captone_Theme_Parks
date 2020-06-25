@@ -1,0 +1,1096 @@
+ZIP,DEPCODE,COUNTYNAME,FieldMatch,POName,c_places,Cases
+32003,10,Clay,Clay-32003,Fleming Island,"Fleming Island, Green Cove Springs, Middleburg, Orange Park",56
+32008,15,Dixie,Dixie-32008,Branford,,0
+32008,21,Gilchrist,Gilchrist-32008,Branford,,0
+32008,34,Lafayette,Lafayette-32008,Branford,Branford,-2
+32008,61,Suwannee,Suwannee-32008,Branford,Branford,9
+32009,45,Nassau,Nassau-32009,Bryceville,Bryceville,-2
+32011,45,Nassau,Nassau-32011,Callahan,Callahan,24
+32013,34,Lafayette,Lafayette-32013,Day,,0
+32024,12,Columbia,Columbia-32024,Lake City,Lake City,43
+32024,61,Suwannee,Suwannee-32024,Lake City,Lake City,-2
+32025,12,Columbia,Columbia-32025,Lake City,Lake City,102
+32033,55,St. Johns,St. Johns-32033,Elkton,Elkton,-2
+32034,45,Nassau,Nassau-32034,Fernandina Beach,"Fernandina, Fernandina Beach",53
+32038,12,Columbia,Columbia-32038,Fort White,Fort White,14
+32040,2,Baker,Baker-32040,Glen Saint Mary,Glen Saint Mary,5
+32043,10,Clay,Clay-32043,Green Cove Springs,Green Cove Springs,130
+32043,54,Putnam,Putnam-32043,Green Cove Springs,,0
+32044,1,Alachua,Alachua-32044,Hampton,,0
+32044,4,Bradford,Bradford-32044,Hampton,Hampton,-2
+32046,45,Nassau,Nassau-32046,Hilliard,Hilliard,17
+32052,24,Hamilton,Hamilton-32052,Jasper,Jasper,240
+32053,24,Hamilton,Hamilton-32053,Jennings,Jennings,54
+32054,4,Bradford,Bradford-32054,Lake Butler,Lake Butler,-2
+32054,63,Union,Union-32054,Lake Butler,Lake Butler,16
+32055,12,Columbia,Columbia-32055,Lake City,Lake City,68
+32058,4,Bradford,Bradford-32058,Lawtey,Lawtey,7
+32058,10,Clay,Clay-32058,Lawtey,,0
+32058,63,Union,Union-32058,Lawtey,,0
+32059,40,Madison,Madison-32059,Lee,Lee,12
+32060,61,Suwannee,Suwannee-32060,Live Oak,Live Oak,134
+32061,12,Columbia,Columbia-32061,Lulu,,0
+32062,61,Suwannee,Suwannee-32062,Mc Alpin,Mcalpin,10
+32063,2,Baker,Baker-32063,Macclenny,Macclenny,29
+32064,61,Suwannee,Suwannee-32064,Live Oak,"Dowling Park, Live Oak",159
+32065,10,Clay,Clay-32065,Orange Park,Orange Park,86
+32066,34,Lafayette,Lafayette-32066,Mayo,Mayo,19
+32068,10,Clay,Clay-32068,Middleburg,Middleburg,88
+32071,61,Suwannee,Suwannee-32071,O Brien,O Brien,14
+32073,10,Clay,Clay-32073,Orange Park,Orange Park,126
+32080,18,Flagler,Flagler-32080,Saint Augustine,,0
+32080,55,St. Johns,St. Johns-32080,Saint Augustine,Saint Augustine,33
+32081,16,Duval,Duval-32081,Ponte Vedra,,0
+32081,55,St. Johns,St. Johns-32081,Ponte Vedra,"Ponte Vedra, Ponte Vedra Beach",51
+32082,55,St. Johns,St. Johns-32082,Ponte Vedra Beach,"Ponte Vedra, Ponte Vedra Beach",98
+32083,63,Union,Union-32083,Raiford,Raiford,-2
+32084,55,St. Johns,St. Johns-32084,Saint Augustine,Saint Augustine,47
+32086,55,St. Johns,St. Johns-32086,Saint Augustine,Saint Augustine,44
+32087,2,Baker,Baker-32087,Sanderson,Sanderson,8
+32091,4,Bradford,Bradford-32091,Starke,Starke,53
+32091,10,Clay,Clay-32091,Starke,,0
+32092,55,St. Johns,St. Johns-32092,Saint Augustine,Saint Augustine,74
+32094,12,Columbia,Columbia-32094,Wellborn,,0
+32094,61,Suwannee,Suwannee-32094,Wellborn,Wellborn,-2
+32095,55,St. Johns,St. Johns-32095,Saint Augustine,Saint Augustine,18
+32096,12,Columbia,Columbia-32096,White Springs,,0
+32096,24,Hamilton,Hamilton-32096,White Springs,White Springs,7
+32096,61,Suwannee,Suwannee-32096,White Springs,,0
+32097,45,Nassau,Nassau-32097,Yulee,Yulee,21
+32102,35,Lake,Lake-32102,Astor,Astor,-2
+32102,64,Volusia,Volusia-32102,Astor,,0
+32110,18,Flagler,Flagler-32110,Bunnell,Bunnell,23
+32112,54,Putnam,Putnam-32112,Crescent City,Crescent City,14
+32113,42,Marion,Marion-32113,Citra,Citra,12
+32114,64,Volusia,Volusia-32114,Daytona Beach,Daytona Beach,100
+32117,64,Volusia,Volusia-32117,Daytona Beach,"Daytona Beach, Holly Hill",103
+32118,64,Volusia,Volusia-32118,Daytona Beach,Daytona Beach,19
+32119,64,Volusia,Volusia-32119,Daytona Beach,"Daytona Beach, South Daytona",46
+32124,64,Volusia,Volusia-32124,Daytona Beach,Daytona Beach,153
+32127,64,Volusia,Volusia-32127,Port Orange,"Ponce Inlet, Port Orange",27
+32128,64,Volusia,Volusia-32128,Port Orange,Port Orange,31
+32129,64,Volusia,Volusia-32129,Port Orange,Port Orange,34
+32130,64,Volusia,Volusia-32130,De Leon Springs,De Leon Springs,16
+32131,54,Putnam,Putnam-32131,East Palatka,East Palatka,19
+32131,55,St. Johns,St. Johns-32131,East Palatka,,0
+32132,64,Volusia,Volusia-32132,Edgewater,Edgewater,5
+32134,42,Marion,Marion-32134,Fort Mc Coy,Fort Mccoy,-2
+32134,54,Putnam,Putnam-32134,Fort Mc Coy,,0
+32136,18,Flagler,Flagler-32136,Flagler Beach,Flagler Beach,15
+32136,64,Volusia,Volusia-32136,Flagler Beach,,0
+32137,18,Flagler,Flagler-32137,Palm Coast,Palm Coast,86
+32139,54,Putnam,Putnam-32139,Georgetown,,0
+32140,54,Putnam,Putnam-32140,Florahome,Florahome,5
+32141,64,Volusia,Volusia-32141,Edgewater,Edgewater,23
+32145,55,St. Johns,St. Johns-32145,Hastings,Hastings,5
+32148,54,Putnam,Putnam-32148,Interlachen,Interlachen,20
+32159,35,Lake,Lake-32159,Lady Lake,"Lady Lake, The Villages",33
+32159,60,Sumter,Sumter-32159,Lady Lake,"Lady Lake, The Villages",-2
+32162,42,Marion,Marion-32162,The Villages,The Villages,-2
+32162,60,Sumter,Sumter-32162,The Villages,"Lady Lake, The Villages",65
+32163,35,Lake,Lake-32163,The Villages,,0
+32163,60,Sumter,Sumter-32163,The Villages,The Villages,18
+32164,18,Flagler,Flagler-32164,Palm Coast,Palm Coast,112
+32168,64,Volusia,Volusia-32168,New Smyrna Beach,New Smyrna Beach,45
+32169,64,Volusia,Volusia-32169,New Smyrna Beach,New Smyrna Beach,7
+32174,18,Flagler,Flagler-32174,Ormond Beach,,0
+32174,64,Volusia,Volusia-32174,Ormond Beach,Ormond Beach,112
+32176,64,Volusia,Volusia-32176,Ormond Beach,Ormond Beach,23
+32177,54,Putnam,Putnam-32177,Palatka,Palatka,158
+32179,42,Marion,Marion-32179,Ocklawaha,"Ocklawaha, Oklawaha",7
+32180,64,Volusia,Volusia-32180,Pierson,Pierson,9
+32181,54,Putnam,Putnam-32181,Pomona Park,Pomona Park,-2
+32187,54,Putnam,Putnam-32187,San Mateo,San Mateo,-2
+32189,54,Putnam,Putnam-32189,Satsuma,Satsuma,8
+32190,64,Volusia,Volusia-32190,Seville,Seville,-2
+32193,54,Putnam,Putnam-32193,Welaka,Welaka,-2
+32195,35,Lake,Lake-32195,Weirsdale,,0
+32195,42,Marion,Marion-32195,Weirsdale,Weirsdale,-2
+32202,16,Duval,Duval-32202,Jacksonville,Jacksonville,70
+32204,16,Duval,Duval-32204,Jacksonville,Jacksonville,19
+32205,16,Duval,Duval-32205,Jacksonville,Jacksonville,48
+32206,16,Duval,Duval-32206,Jacksonville,Jacksonville,49
+32207,16,Duval,Duval-32207,Jacksonville,Jacksonville,172
+32208,16,Duval,Duval-32208,Jacksonville,Jacksonville,183
+32209,16,Duval,Duval-32209,Jacksonville,Jacksonville,96
+32210,16,Duval,Duval-32210,Jacksonville,Jacksonville,242
+32211,16,Duval,Duval-32211,Jacksonville,Jacksonville,102
+32212,16,Duval,Duval-32212,Jacksonville,Jacksonville,71
+32214,16,Duval,Duval-32214,Jacksonville,Jacksonville,-2
+32216,16,Duval,Duval-32216,Jacksonville,Jacksonville,203
+32217,16,Duval,Duval-32217,Jacksonville,Jacksonville,67
+32218,16,Duval,Duval-32218,Jacksonville,Jacksonville,170
+32219,16,Duval,Duval-32219,Jacksonville,Jacksonville,37
+32220,16,Duval,Duval-32220,Jacksonville,Jacksonville,23
+32221,16,Duval,Duval-32221,Jacksonville,Jacksonville,72
+32222,16,Duval,Duval-32222,Jacksonville,Jacksonville,30
+32223,16,Duval,Duval-32223,Jacksonville,Jacksonville,35
+32224,16,Duval,Duval-32224,Jacksonville,Jacksonville,116
+32225,16,Duval,Duval-32225,Jacksonville,Jacksonville,126
+32226,16,Duval,Duval-32226,Jacksonville,Jacksonville,53
+32227,16,Duval,Duval-32227,Jacksonville,Jacksonville,-2
+32233,16,Duval,Duval-32233,Atlantic Beach,"Atlantic Beach, Jacksonville, Mayport",75
+32234,2,Baker,Baker-32234,Jacksonville,,0
+32234,10,Clay,Clay-32234,Jacksonville,,0
+32234,16,Duval,Duval-32234,Jacksonville,"Baldwin, Jacksonville",6
+32234,45,Nassau,Nassau-32234,Jacksonville,,0
+32244,16,Duval,Duval-32244,Jacksonville,Jacksonville,162
+32246,16,Duval,Duval-32246,Jacksonville,Jacksonville,189
+32250,16,Duval,Duval-32250,Jacksonville Beach,"Jacksonville, Jacksonville Beach",163
+32254,16,Duval,Duval-32254,Jacksonville,Jacksonville,50
+32256,16,Duval,Duval-32256,Jacksonville,Jacksonville,182
+32257,16,Duval,Duval-32257,Jacksonville,Jacksonville,73
+32258,16,Duval,Duval-32258,Jacksonville,Jacksonville,83
+32259,55,St. Johns,St. Johns-32259,Saint Johns,"Fruit Cove, Jacksonville, Saint Johns, Switzerland",105
+32266,16,Duval,Duval-32266,Neptune Beach,"Jacksonville, Jacksonville Beach, Neptune Beach",40
+32277,16,Duval,Duval-32277,Jacksonville,Jacksonville,76
+32301,37,Leon,Leon-32301,Tallahassee,Tallahassee,65
+32303,37,Leon,Leon-32303,Tallahassee,Tallahassee,78
+32304,37,Leon,Leon-32304,Tallahassee,Tallahassee,159
+32305,37,Leon,Leon-32305,Tallahassee,Tallahassee,28
+32306,37,Leon,Leon-32306,Tallahassee,"Florida State University, Tallahassee",-2
+32308,37,Leon,Leon-32308,Tallahassee,"Centerville, Tallahassee",56
+32309,33,Jefferson,Jefferson-32309,Tallahassee,,0
+32309,37,Leon,Leon-32309,Tallahassee,"Centerville, Tallahassee",30
+32310,37,Leon,Leon-32310,Tallahassee,Tallahassee,54
+32311,37,Leon,Leon-32311,Tallahassee,Tallahassee,37
+32312,37,Leon,Leon-32312,Tallahassee,Tallahassee,32
+32317,37,Leon,Leon-32317,Tallahassee,Tallahassee,13
+32320,19,Franklin,Franklin-32320,Apalachicola,SUPPRESSED,-3
+32321,39,Liberty,Liberty-32321,Bristol,Bristol,217
+32322,19,Franklin,Franklin-32322,Carrabelle,SUPPRESSED,-3
+32324,20,Gadsden,Gadsden-32324,Chattahoochee,Chattahoochee,20
+32327,37,Leon,Leon-32327,Crawfordville,,0
+32327,65,Wakulla,Wakulla-32327,Crawfordville,"Crawfordville, Wakulla Springs",36
+32328,19,Franklin,Franklin-32328,Eastpoint,SUPPRESSED,-3
+32331,33,Jefferson,Jefferson-32331,Greenville,,0
+32331,40,Madison,Madison-32331,Greenville,Greenville,9
+32331,62,Taylor,Taylor-32331,Greenville,,0
+32332,20,Gadsden,Gadsden-32332,Gretna,Gretna,17
+32333,20,Gadsden,Gadsden-32333,Havana,Havana,27
+32334,39,Liberty,Liberty-32334,Hosford,Hosford,-2
+32336,33,Jefferson,Jefferson-32336,Lamont,Lamont,-2
+32336,40,Madison,Madison-32336,Lamont,,0
+32336,62,Taylor,Taylor-32336,Lamont,,0
+32340,40,Madison,Madison-32340,Madison,Madison,111
+32343,20,Gadsden,Gadsden-32343,Midway,Midway,23
+32344,33,Jefferson,Jefferson-32344,Monticello,Monticello,35
+32346,19,Franklin,Franklin-32346,Panacea,SUPPRESSED,-3
+32346,65,Wakulla,Wakulla-32346,Panacea,,0
+32347,62,Taylor,Taylor-32347,Perry,Perry,22
+32348,62,Taylor,Taylor-32348,Perry,Perry,43
+32350,40,Madison,Madison-32350,Pinetta,Pinetta,-2
+32351,20,Gadsden,Gadsden-32351,Quincy,Quincy,195
+32352,20,Gadsden,Gadsden-32352,Quincy,"Mount Pleasant, Quincy",35
+32355,65,Wakulla,Wakulla-32355,Saint Marks,,0
+32356,62,Taylor,Taylor-32356,Salem,,0
+32358,19,Franklin,Franklin-32358,Sopchoppy,SUPPRESSED,-3
+32358,65,Wakulla,Wakulla-32358,Sopchoppy,Sopchoppy,-2
+32359,15,Dixie,Dixie-32359,Steinhatchee,Steinhatchee,-2
+32359,62,Taylor,Taylor-32359,Steinhatchee,Steinhatchee,-2
+32360,39,Liberty,Liberty-32360,Telogia,,0
+32399,37,Leon,Leon-32399,Tallahassee,Tallahassee,-2
+32401,3,Bay,Bay-32401,Panama City,Panama City,47
+32403,3,Bay,Bay-32403,Panama City,Tyndall Air Force Base,-2
+32404,3,Bay,Bay-32404,Panama City,"Callaway, Panama City, Parker",33
+32405,3,Bay,Bay-32405,Panama City,Panama City,57
+32407,3,Bay,Bay-32407,Panama City Beach,Panama City Beach,21
+32408,3,Bay,Bay-32408,Panama City,"Panama City, Panama City Beach",18
+32409,3,Bay,Bay-32409,Panama City,"Panama City, Southport",7
+32413,3,Bay,Bay-32413,Panama City Beach,Panama City Beach,-2
+32420,32,Jackson,Jackson-32420,Alford,Alford,-2
+32420,67,Washington,Washington-32420,Alford,,0
+32421,7,Calhoun,Calhoun-32421,Altha,Altha,5
+32423,32,Jackson,Jackson-32423,Bascom,Bascom,-2
+32424,7,Calhoun,Calhoun-32424,Blountstown,Blountstown,82
+32425,30,Holmes,Holmes-32425,Bonifay,Bonifay,115
+32425,67,Washington,Washington-32425,Bonifay,Bonifay,-2
+32426,32,Jackson,Jackson-32426,Campbellton,Campbellton,-2
+32427,67,Washington,Washington-32427,Caryville,Caryville,-2
+32428,32,Jackson,Jackson-32428,Chipley,,0
+32428,67,Washington,Washington-32428,Chipley,Chipley,84
+32430,7,Calhoun,Calhoun-32430,Clarksville,,0
+32431,32,Jackson,Jackson-32431,Cottondale,Cottondale,13
+32431,67,Washington,Washington-32431,Cottondale,,0
+32433,66,Walton,Walton-32433,Defuniak Springs,Defuniak Springs,55
+32435,66,Walton,Walton-32435,Defuniak Springs,Defuniak Springs,50
+32437,3,Bay,Bay-32437,Ebro,,0
+32437,67,Washington,Washington-32437,Ebro,,0
+32438,3,Bay,Bay-32438,Fountain,Fountain,-2
+32438,7,Calhoun,Calhoun-32438,Fountain,,0
+32438,67,Washington,Washington-32438,Fountain,,0
+32439,66,Walton,Walton-32439,Freeport,Freeport,13
+32440,30,Holmes,Holmes-32440,Graceville,Graceville,-2
+32440,32,Jackson,Jackson-32440,Graceville,Graceville,-2
+32442,7,Calhoun,Calhoun-32442,Grand Ridge,,0
+32442,32,Jackson,Jackson-32442,Grand Ridge,Grand Ridge,9
+32443,32,Jackson,Jackson-32443,Greenwood,Greenwood,15
+32444,3,Bay,Bay-32444,Lynn Haven,Lynn Haven,22
+32445,32,Jackson,Jackson-32445,Malone,Malone,8
+32446,32,Jackson,Jackson-32446,Marianna,Marianna,66
+32448,32,Jackson,Jackson-32448,Marianna,Marianna,41
+32449,7,Calhoun,Calhoun-32449,Wewahitchka,,0
+32455,30,Holmes,Holmes-32455,Ponce De Leon,,0
+32455,66,Walton,Walton-32455,Ponce De Leon,Ponce De Leon,-2
+32456,3,Bay,Bay-32456,Port Saint Joe,,0
+32456,23,Gulf,Gulf-32456,Port Saint Joe,Port Saint Joe,6
+32459,66,Walton,Walton-32459,Santa Rosa Beach,"Point Washington, Santa Rosa Beach",33
+32460,32,Jackson,Jackson-32460,Sneads,Sneads,167
+32461,66,Walton,Walton-32461,Inlet Beach,,0
+32462,3,Bay,Bay-32462,Vernon,,0
+32462,66,Walton,Walton-32462,Vernon,,0
+32462,67,Washington,Washington-32462,Vernon,Vernon,8
+32464,30,Holmes,Holmes-32464,Westville,Westville,-2
+32464,66,Walton,Walton-32464,Westville,Westville,-2
+32465,19,Franklin,Franklin-32465,Wewahitchka,SUPPRESSED,-3
+32465,23,Gulf,Gulf-32465,Wewahitchka,Wewahitchka,5
+32466,3,Bay,Bay-32466,Youngstown,Youngstown,5
+32466,7,Calhoun,Calhoun-32466,Youngstown,,0
+32466,67,Washington,Washington-32466,Youngstown,,0
+32501,17,Escambia,Escambia-32501,Pensacola,Pensacola,80
+32502,17,Escambia,Escambia-32502,Pensacola,Pensacola,94
+32503,17,Escambia,Escambia-32503,Pensacola,Pensacola,99
+32504,17,Escambia,Escambia-32504,Pensacola,Pensacola,113
+32505,17,Escambia,Escambia-32505,Pensacola,Pensacola,102
+32506,17,Escambia,Escambia-32506,Pensacola,Pensacola,53
+32507,17,Escambia,Escambia-32507,Pensacola,"Pensacola, Perdido Key",41
+32508,17,Escambia,Escambia-32508,Pensacola,,0
+32509,17,Escambia,Escambia-32509,Pensacola,,0
+32511,17,Escambia,Escambia-32511,Pensacola,Pensacola,11
+32512,17,Escambia,Escambia-32512,Pensacola,Pensacola Naval Hospital,-2
+32514,17,Escambia,Escambia-32514,Pensacola,Pensacola,154
+32526,17,Escambia,Escambia-32526,Pensacola,"Bellview, Pensacola",96
+32531,46,Okaloosa,Okaloosa-32531,Baker,Baker,-2
+32531,57,Santa Rosa,Santa Rosa-32531,Baker,,0
+32533,17,Escambia,Escambia-32533,Cantonment,Cantonment,69
+32534,17,Escambia,Escambia-32534,Pensacola,Pensacola,46
+32535,17,Escambia,Escambia-32535,Century,Century,8
+32536,46,Okaloosa,Okaloosa-32536,Crestview,Crestview,30
+32539,46,Okaloosa,Okaloosa-32539,Crestview,Crestview,42
+32539,66,Walton,Walton-32539,Crestview,,0
+32541,46,Okaloosa,Okaloosa-32541,Destin,Destin,55
+32542,46,Okaloosa,Okaloosa-32542,Eglin Afb,Eglin Air Force Base,6
+32542,57,Santa Rosa,Santa Rosa-32542,Navarre,,0
+32544,46,Okaloosa,Okaloosa-32544,Hurlburt Field,,0
+32547,46,Okaloosa,Okaloosa-32547,Fort Walton Beach,Fort Walton Beach,129
+32548,46,Okaloosa,Okaloosa-32548,Fort Walton Beach,Fort Walton Beach,55
+32550,66,Walton,Walton-32550,Miramar Beach,"Destin, Miramar Beach",8
+32561,17,Escambia,Escambia-32561,Gulf Breeze,"Gulf Breeze, Pensacola, Pensacola Beach",-2
+32561,57,Santa Rosa,Santa Rosa-32561,Gulf Breeze,"Gulf Breeze, Pensacola Beach",18
+32563,57,Santa Rosa,Santa Rosa-32563,Gulf Breeze,Gulf Breeze,30
+32564,46,Okaloosa,Okaloosa-32564,Holt,Holt,-2
+32564,57,Santa Rosa,Santa Rosa-32564,Holt,,0
+32565,57,Santa Rosa,Santa Rosa-32565,Jay,Jay,-2
+32566,57,Santa Rosa,Santa Rosa-32566,Navarre,Navarre,57
+32567,46,Okaloosa,Okaloosa-32567,Laurel Hill,Laurel Hill,-2
+32567,66,Walton,Walton-32567,Laurel Hill,,0
+32568,17,Escambia,Escambia-32568,Mc David,"Mcdavid, Walnut Hill",-2
+32569,46,Okaloosa,Okaloosa-32569,Mary Esther,Mary Esther,28
+32570,57,Santa Rosa,Santa Rosa-32570,Milton,Milton,55
+32571,57,Santa Rosa,Santa Rosa-32571,Milton,"Milton, Pace",60
+32577,17,Escambia,Escambia-32577,Molino,Molino,16
+32578,46,Okaloosa,Okaloosa-32578,Niceville,Niceville,44
+32578,66,Walton,Walton-32578,Niceville,,0
+32579,46,Okaloosa,Okaloosa-32579,Shalimar,Shalimar,24
+32580,46,Okaloosa,Okaloosa-32580,Valparaiso,Valparaiso,-2
+32583,57,Santa Rosa,Santa Rosa-32583,Milton,Milton,126
+32601,1,Alachua,Alachua-32601,Gainesville,Gainesville,114
+32603,1,Alachua,Alachua-32603,Gainesville,Gainesville,32
+32605,1,Alachua,Alachua-32605,Gainesville,Gainesville,52
+32606,1,Alachua,Alachua-32606,Gainesville,Gainesville,43
+32607,1,Alachua,Alachua-32607,Gainesville,Gainesville,85
+32608,1,Alachua,Alachua-32608,Gainesville,Gainesville,96
+32609,1,Alachua,Alachua-32609,Gainesville,Gainesville,118
+32610,1,Alachua,Alachua-32610,Gainesville,Gainesville,5
+32611,1,Alachua,Alachua-32611,Gainesville,Gainesville,-2
+32615,1,Alachua,Alachua-32615,Alachua,"Alachua, Santa Fe",34
+32617,42,Marion,Marion-32617,Anthony,Anthony,-2
+32618,1,Alachua,Alachua-32618,Archer,Archer,9
+32618,38,Levy,Levy-32618,Archer,,0
+32619,21,Gilchrist,Gilchrist-32619,Bell,Bell,13
+32621,38,Levy,Levy-32621,Bronson,Bronson,21
+32622,1,Alachua,Alachua-32622,Brooker,,0
+32622,4,Bradford,Bradford-32622,Brooker,Brooker,-2
+32625,38,Levy,Levy-32625,Cedar Key,Cedar Key,-2
+32626,38,Levy,Levy-32626,Chiefland,Chiefland,90
+32628,15,Dixie,Dixie-32628,Cross City,Cross City,25
+32631,1,Alachua,Alachua-32631,Earleton,,0
+32640,1,Alachua,Alachua-32640,Hawthorne,Hawthorne,8
+32640,54,Putnam,Putnam-32640,Hawthorne,Hawthorne,-2
+32641,1,Alachua,Alachua-32641,Gainesville,Gainesville,48
+32643,1,Alachua,Alachua-32643,High Springs,High Springs,15
+32643,12,Columbia,Columbia-32643,High Springs,,0
+32643,21,Gilchrist,Gilchrist-32643,High Springs,,0
+32648,15,Dixie,Dixie-32648,Horseshoe Beach,,0
+32653,1,Alachua,Alachua-32653,Gainesville,Gainesville,26
+32656,4,Bradford,Bradford-32656,Keystone Heights,,0
+32656,10,Clay,Clay-32656,Keystone Heights,Keystone Heights,13
+32666,1,Alachua,Alachua-32666,Melrose,,0
+32666,4,Bradford,Bradford-32666,Melrose,,0
+32666,10,Clay,Clay-32666,Melrose,,0
+32666,54,Putnam,Putnam-32666,Melrose,Melrose,5
+32667,1,Alachua,Alachua-32667,Micanopy,Micanopy,-2
+32667,42,Marion,Marion-32667,Micanopy,,0
+32668,38,Levy,Levy-32668,Morriston,Morriston,8
+32668,42,Marion,Marion-32668,Morriston,,0
+32669,1,Alachua,Alachua-32669,Newberry,"Newberry, Tioga",34
+32669,21,Gilchrist,Gilchrist-32669,Newberry,,0
+32669,38,Levy,Levy-32669,Newberry,,0
+32680,15,Dixie,Dixie-32680,Old Town,Old Town,36
+32686,42,Marion,Marion-32686,Reddick,Reddick,-2
+32693,21,Gilchrist,Gilchrist-32693,Trenton,"Fanning Springs, Trenton",73
+32693,38,Levy,Levy-32693,Trenton,,0
+32694,1,Alachua,Alachua-32694,Waldo,Waldo,7
+32696,38,Levy,Levy-32696,Williston,Williston,28
+32696,42,Marion,Marion-32696,Williston,,0
+32701,59,Seminole,Seminole-32701,Altamonte Springs,Altamonte Springs,78
+32702,35,Lake,Lake-32702,Altoona,Altoona,-2
+32702,42,Marion,Marion-32702,Altoona,,0
+32703,48,Orange,Orange-32703,Apopka,"Apopka, Forest City",185
+32703,59,Seminole,Seminole-32703,Apopka,,0
+32707,59,Seminole,Seminole-32707,Casselberry,Casselberry,96
+32708,59,Seminole,Seminole-32708,Winter Springs,"Casselberry, Winter Springs",130
+32709,48,Orange,Orange-32709,Christmas,Christmas,9
+32712,48,Orange,Orange-32712,Apopka,Apopka,184
+32713,64,Volusia,Volusia-32713,Debary,Debary,73
+32714,59,Seminole,Seminole-32714,Altamonte Springs,Altamonte Springs,174
+32720,35,Lake,Lake-32720,Deland,,0
+32720,64,Volusia,Volusia-32720,Deland,Deland,80
+32724,64,Volusia,Volusia-32724,Deland,Deland,94
+32725,64,Volusia,Volusia-32725,Deltona,Deltona,117
+32726,35,Lake,Lake-32726,Eustis,Eustis,72
+32730,59,Seminole,Seminole-32730,Casselberry,"Casselberry, Fern Park",14
+32732,59,Seminole,Seminole-32732,Geneva,Geneva,15
+32735,35,Lake,Lake-32735,Grand Island,Grand Island,-2
+32736,35,Lake,Lake-32736,Eustis,Eustis,13
+32738,64,Volusia,Volusia-32738,Deltona,Deltona,84
+32744,64,Volusia,Volusia-32744,Lake Helen,Lake Helen,9
+32746,59,Seminole,Seminole-32746,Lake Mary,"Heathrow, Lake Mary",130
+32750,59,Seminole,Seminole-32750,Longwood,Longwood,82
+32751,48,Orange,Orange-32751,Maitland,"Eatonville, Maitland",66
+32751,59,Seminole,Seminole-32751,Maitland,,0
+32754,5,Brevard,Brevard-32754,Mims,Mims,10
+32754,64,Volusia,Volusia-32754,Mims,,0
+32757,35,Lake,Lake-32757,Mount Dora,Mount Dora,46
+32757,48,Orange,Orange-32757,Mount Dora,Mount Dora,-2
+32759,64,Volusia,Volusia-32759,Oak Hill,Oak Hill,5
+32763,64,Volusia,Volusia-32763,Orange City,Orange City,67
+32764,64,Volusia,Volusia-32764,Osteen,,0
+32765,59,Seminole,Seminole-32765,Oviedo,Oviedo,267
+32766,59,Seminole,Seminole-32766,Oviedo,"Chuluota, Oviedo",54
+32767,35,Lake,Lake-32767,Paisley,Paisley,-2
+32771,59,Seminole,Seminole-32771,Sanford,Sanford,162
+32773,59,Seminole,Seminole-32773,Sanford,Sanford,119
+32776,35,Lake,Lake-32776,Sorrento,Sorrento,19
+32776,48,Orange,Orange-32776,Sorrento,,0
+32778,35,Lake,Lake-32778,Tavares,Tavares,170
+32779,59,Seminole,Seminole-32779,Longwood,Longwood,74
+32780,5,Brevard,Brevard-32780,Titusville,Titusville,47
+32784,35,Lake,Lake-32784,Umatilla,Umatilla,15
+32784,42,Marion,Marion-32784,Umatilla,,0
+32789,48,Orange,Orange-32789,Winter Park,"Orlando, Winter Park",112
+32792,48,Orange,Orange-32792,Winter Park,"Aloma, Winter Park",127
+32792,59,Seminole,Seminole-32792,Winter Park,Winter Park,-2
+32796,5,Brevard,Brevard-32796,Titusville,Titusville,34
+32798,48,Orange,Orange-32798,Zellwood,Zellwood,6
+32801,48,Orange,Orange-32801,Orlando,Orlando,187
+32803,48,Orange,Orange-32803,Orlando,Orlando,181
+32804,48,Orange,Orange-32804,Orlando,Orlando,70
+32805,48,Orange,Orange-32805,Orlando,Orlando,108
+32806,48,Orange,Orange-32806,Orlando,Orlando,134
+32807,48,Orange,Orange-32807,Orlando,"Azalea Park, Orlando",153
+32808,48,Orange,Orange-32808,Orlando,"Orlando, Pine Hills",170
+32809,48,Orange,Orange-32809,Orlando,"Belle Isle, Orlando",133
+32810,48,Orange,Orange-32810,Orlando,Orlando,109
+32811,48,Orange,Orange-32811,Orlando,Orlando,167
+32812,48,Orange,Orange-32812,Orlando,"Belle Isle, Orlando",129
+32814,48,Orange,Orange-32814,Orlando,Orlando,51
+32815,5,Brevard,Brevard-32815,Orlando,,0
+32816,48,Orange,Orange-32816,Orlando,"Alafaya, Orlando",11
+32817,48,Orange,Orange-32817,Orlando,Orlando,161
+32818,48,Orange,Orange-32818,Orlando,Orlando,159
+32819,48,Orange,Orange-32819,Orlando,Orlando,177
+32820,48,Orange,Orange-32820,Orlando,Orlando,28
+32821,48,Orange,Orange-32821,Orlando,Orlando,82
+32822,48,Orange,Orange-32822,Orlando,Orlando,253
+32824,48,Orange,Orange-32824,Orlando,Orlando,260
+32825,48,Orange,Orange-32825,Orlando,"Alafaya, Orlando",213
+32826,48,Orange,Orange-32826,Orlando,"Alafaya, Orlando",149
+32827,48,Orange,Orange-32827,Orlando,Orlando,56
+32828,48,Orange,Orange-32828,Orlando,"Alafaya, Orlando",248
+32829,48,Orange,Orange-32829,Orlando,Orlando,79
+32830,48,Orange,Orange-32830,Orlando,,0
+32831,48,Orange,Orange-32831,Orlando,Orlando,-2
+32832,48,Orange,Orange-32832,Orlando,Orlando,79
+32833,48,Orange,Orange-32833,Orlando,Orlando,24
+32835,48,Orange,Orange-32835,Orlando,Orlando,125
+32836,48,Orange,Orange-32836,Orlando,Orlando,62
+32837,48,Orange,Orange-32837,Orlando,Orlando,195
+32839,48,Orange,Orange-32839,Orlando,"Edgewood, Orlando, Pine Castle",228
+32901,5,Brevard,Brevard-32901,Melbourne,Melbourne,48
+32903,5,Brevard,Brevard-32903,Indialantic,"Indialantic, Melbourne",14
+32904,5,Brevard,Brevard-32904,Melbourne,"Melbourne, West Melbourne",65
+32905,5,Brevard,Brevard-32905,Palm Bay,"Melbourne, Palm Bay",33
+32907,5,Brevard,Brevard-32907,Palm Bay,"Melbourne, Palm Bay",62
+32908,5,Brevard,Brevard-32908,Palm Bay,Palm Bay,25
+32909,5,Brevard,Brevard-32909,Palm Bay,"Melbourne, Palm Bay",63
+32920,5,Brevard,Brevard-32920,Cape Canaveral,Cape Canaveral,9
+32922,5,Brevard,Brevard-32922,Cocoa,Cocoa,100
+32925,5,Brevard,Brevard-32925,Patrick Afb,Patrick Air Force Base,-2
+32926,5,Brevard,Brevard-32926,Cocoa,Cocoa,39
+32927,5,Brevard,Brevard-32927,Cocoa,"Cocoa, Port Saint John",28
+32931,5,Brevard,Brevard-32931,Cocoa Beach,Cocoa Beach,26
+32934,5,Brevard,Brevard-32934,Melbourne,Melbourne,19
+32935,5,Brevard,Brevard-32935,Melbourne,Melbourne,50
+32937,5,Brevard,Brevard-32937,Satellite Beach,"Indian Harbour Beach, Melbourne, Satellite Beach",40
+32940,5,Brevard,Brevard-32940,Melbourne,"Melbourne, Viera",63
+32948,5,Brevard,Brevard-32948,Fellsmere,,0
+32948,31,Indian River,Indian River-32948,Fellsmere,Fellsmere,97
+32949,5,Brevard,Brevard-32949,Grant,Grant-valkaria,-2
+32950,5,Brevard,Brevard-32950,Malabar,"Malabar, Valkaria",-2
+32951,5,Brevard,Brevard-32951,Melbourne Beach,Melbourne Beach,5
+32952,5,Brevard,Brevard-32952,Merritt Island,Merritt Island,23
+32953,5,Brevard,Brevard-32953,Merritt Island,Merritt Island,28
+32955,5,Brevard,Brevard-32955,Rockledge,"Melbourne, Rockledge, Viera",58
+32958,31,Indian River,Indian River-32958,Sebastian,Sebastian,27
+32960,31,Indian River,Indian River-32960,Vero Beach,Vero Beach,115
+32962,31,Indian River,Indian River-32962,Vero Beach,Vero Beach,45
+32963,31,Indian River,Indian River-32963,Vero Beach,Vero Beach,24
+32963,56,St. Lucie,St. Lucie-32963,Vero Beach,,0
+32966,31,Indian River,Indian River-32966,Vero Beach,Vero Beach,28
+32967,31,Indian River,Indian River-32967,Vero Beach,Vero Beach,52
+32968,31,Indian River,Indian River-32968,Vero Beach,Vero Beach,19
+32976,5,Brevard,Brevard-32976,Sebastian,"Barefoot Bay, Sebastian",6
+33004,6,Broward,Broward-33004,Dania,"Dania, Dania Beach",71
+33009,6,Broward,Broward-33009,Hallandale,"Hallandale, Hallandale Beach",199
+33010,13,Dade,Dade-33010,Hialeah,Hialeah,720
+33012,13,Dade,Dade-33012,Hialeah,Hialeah,858
+33013,13,Dade,Dade-33013,Hialeah,Hialeah,303
+33014,13,Dade,Dade-33014,Hialeah,"Hialeah, Miami Lakes",278
+33015,13,Dade,Dade-33015,Hialeah,"Hialeah, Miami Beach, Miami Gardens, Miami Lakes",591
+33016,13,Dade,Dade-33016,Hialeah,"Hialeah, Hialeah Gardens, Miami Lakes",550
+33018,13,Dade,Dade-33018,Hialeah,"Hialeah, Hialeah Gardens, Miami Lakes",392
+33019,6,Broward,Broward-33019,Hollywood,Hollywood,50
+33020,6,Broward,Broward-33020,Hollywood,Hollywood,244
+33021,6,Broward,Broward-33021,Hollywood,"Hollywood, Pembroke Park",304
+33023,6,Broward,Broward-33023,Hollywood,"Hollywood, Miramar, Pembroke Park, Pembroke Pines, West Park",552
+33024,6,Broward,Broward-33024,Hollywood,"Cooper City, Hollywood, Pembroke Pines",464
+33025,6,Broward,Broward-33025,Hollywood,"Hollywood, Miramar, Pembroke Pines",548
+33026,6,Broward,Broward-33026,Hollywood,"Cooper City, Hollywood, Pembroke Pines",123
+33027,6,Broward,Broward-33027,Hollywood,"Hollywood, Miramar, Pembroke Pines",322
+33028,6,Broward,Broward-33028,Pembroke Pines,"Hollywood, Pembroke Pines",548
+33029,6,Broward,Broward-33029,Hollywood,"Hollywood, Miramar, Pembroke Pines",203
+33030,13,Dade,Dade-33030,Homestead,"Everglades National Park, Homestead",627
+33031,13,Dade,Dade-33031,Homestead,Homestead,38
+33032,13,Dade,Dade-33032,Homestead,"Homestead, Naranja, Princeton",312
+33033,13,Dade,Dade-33033,Homestead,Homestead,582
+33034,13,Dade,Dade-33034,Homestead,"Florida City, Homestead",539
+33034,44,Monroe,Monroe-33034,Flamingo,,0
+33035,13,Dade,Dade-33035,Homestead,Homestead,152
+33036,44,Monroe,Monroe-33036,Islamorada,Islamorada,5
+33037,44,Monroe,Monroe-33037,Key Largo,Key Largo,24
+33039,13,Dade,Dade-33039,Homestead,Homestead,-2
+33040,44,Monroe,Monroe-33040,Key West,"Key West, Stock Island",67
+33042,44,Monroe,Monroe-33042,Summerland Key,"Cudjoe Key, Sugarloaf, Summerland Key",8
+33043,44,Monroe,Monroe-33043,Big Pine Key,Big Pine Key,-2
+33050,44,Monroe,Monroe-33050,Marathon,Marathon,10
+33054,13,Dade,Dade-33054,Opa Locka,"Miami Gardens, Opa Locka",328
+33055,13,Dade,Dade-33055,Opa Locka,"Carol City, Miami Gardens, Opa Locka",474
+33056,13,Dade,Dade-33056,Miami Gardens,"Carol City, Miami Gardens, Opa Locka",387
+33060,6,Broward,Broward-33060,Pompano Beach,Pompano Beach,315
+33062,6,Broward,Broward-33062,Pompano Beach,"Hillsboro Beach, Lauderdale By The Sea, Pompano Beach",73
+33063,6,Broward,Broward-33063,Pompano Beach,"Coconut Creek, Margate, Pompano Beach",298
+33064,6,Broward,Broward-33064,Pompano Beach,"Deerfield Beach, Lighthouse Point, Pompano Beach",475
+33065,6,Broward,Broward-33065,Coral Springs,"Coral Springs, Margate, Pompano Beach",275
+33066,6,Broward,Broward-33066,Pompano Beach,"Coconut Creek, Pompano Beach",55
+33067,6,Broward,Broward-33067,Pompano Beach,"Coral Springs, Parkland, Pompano Beach",75
+33068,6,Broward,Broward-33068,Pompano Beach,"Lauderhill, Margate, North Lauderdale, Pompano Beach",380
+33069,6,Broward,Broward-33069,Pompano Beach,Pompano Beach,248
+33070,44,Monroe,Monroe-33070,Tavernier,Tavernier,31
+33071,6,Broward,Broward-33071,Coral Springs,"Coral Springs, Margate, Pompano Beach",150
+33073,6,Broward,Broward-33073,Pompano Beach,"Coconut Creek, Coral Springs, Pompano Beach",182
+33076,6,Broward,Broward-33076,Pompano Beach,"Coral Springs, Parkland, Pompano Beach",132
+33109,13,Dade,Dade-33109,Miami Beach,"Fisher Island, Miami, Miami Beach",8
+33122,13,Dade,Dade-33122,Miami,"Doral, Miami",20
+33125,13,Dade,Dade-33125,Miami,Miami,1316
+33126,13,Dade,Dade-33126,Miami,"Doral, Miami",530
+33127,13,Dade,Dade-33127,Miami,Miami,306
+33128,13,Dade,Dade-33128,Miami,Miami,467
+33129,13,Dade,Dade-33129,Miami,Miami,56
+33130,13,Dade,Dade-33130,Miami,Miami,323
+33131,13,Dade,Dade-33131,Miami,Miami,87
+33132,13,Dade,Dade-33132,Miami,Miami,105
+33133,13,Dade,Dade-33133,Miami,"Coconut Grove, Coral Gables, Miami",294
+33134,13,Dade,Dade-33134,Miami,"Coconut Grove, Coral Gables, Miami",224
+33135,13,Dade,Dade-33135,Miami,Miami,386
+33136,13,Dade,Dade-33136,Miami,Miami,690
+33137,13,Dade,Dade-33137,Miami,Miami,213
+33138,13,Dade,Dade-33138,Miami,"El Portal, Miami, Miami Shores",194
+33139,13,Dade,Dade-33139,Miami Beach,"Fisher Island, Miami, Miami Beach",362
+33140,13,Dade,Dade-33140,Miami Beach,"Miami, Miami Beach",451
+33141,13,Dade,Dade-33141,Miami Beach,"Miami, Miami Beach, North Bay Village",209
+33142,13,Dade,Dade-33142,Miami,Miami,879
+33143,13,Dade,Dade-33143,Miami,"Coral Gables, Miami, Miami Gardens, South Miami",556
+33144,13,Dade,Dade-33144,Miami,"Coral Gables, Miami, West Miami",359
+33145,13,Dade,Dade-33145,Miami,Miami,208
+33146,13,Dade,Dade-33146,Miami,"Coconut Grove, Coral Gables, Miami",84
+33147,13,Dade,Dade-33147,Miami,Miami,524
+33149,13,Dade,Dade-33149,Key Biscayne,"Key Biscayne, Miami",88
+33150,13,Dade,Dade-33150,Miami,"El Portal, Miami",320
+33154,13,Dade,Dade-33154,Miami Beach,"Bal Harbour, Bay Harbor Islands, Miami, Miami Beach, Surfside",77
+33155,13,Dade,Dade-33155,Miami,"Miami, Miami Beach, West Miami",370
+33156,13,Dade,Dade-33156,Miami,"Coral Gables, Kendall, Miami, Pinecrest",204
+33157,13,Dade,Dade-33157,Miami,"Cutler Bay, Miami, Palmetto Bay, Perrine, Village Of Palmetto Bay",903
+33158,13,Dade,Dade-33158,Miami,"Miami, Palmetto Bay, Village Of Palmetto Bay",17
+33160,13,Dade,Dade-33160,North Miami Beach,"Aventura, Cleveland, Golden Beach, Miami, North Miami Beach, Sunny Isles Beach",235
+33161,13,Dade,Dade-33161,Miami,"Biscayne Park, Miami, North Miami",725
+33162,13,Dade,Dade-33162,Miami,"Miami, Miami Beach, North Miami Beach",422
+33165,13,Dade,Dade-33165,Miami,Miami,509
+33166,13,Dade,Dade-33166,Miami,"Doral, Medley, Miami, Miami Springs, Virginia Gardens",388
+33167,13,Dade,Dade-33167,Miami,"Miami, North Miami",187
+33168,13,Dade,Dade-33168,Miami,"Miami, North Miami",225
+33169,13,Dade,Dade-33169,Miami,"Miami, Miami Gardens, North Miami Beach, Opa Locka",413
+33170,13,Dade,Dade-33170,Miami,"Goulds, Miami",92
+33172,13,Dade,Dade-33172,Miami,"Doral, Miami, Sweetwater, West Miami",334
+33173,13,Dade,Dade-33173,Miami,Miami,147
+33174,13,Dade,Dade-33174,Miami,"Miami, Sweetwater",200
+33175,13,Dade,Dade-33175,Miami,Miami,452
+33176,13,Dade,Dade-33176,Miami,Miami,294
+33177,13,Dade,Dade-33177,Miami,Miami,408
+33178,13,Dade,Dade-33178,Miami,"Doral, Medley, Miami",427
+33179,13,Dade,Dade-33179,Miami,"Miami, Miami Gardens, North Miami Beach",395
+33180,13,Dade,Dade-33180,Miami,"Aventura, Miami",272
+33181,13,Dade,Dade-33181,Miami,"Miami, North Miami, North Miami Beach",132
+33182,13,Dade,Dade-33182,Miami,"Doral, Miami",78
+33183,13,Dade,Dade-33183,Miami,"Kendall, Miami",222
+33184,13,Dade,Dade-33184,Miami,Miami,143
+33185,13,Dade,Dade-33185,Miami,Miami,133
+33186,13,Dade,Dade-33186,Miami,Miami,332
+33187,13,Dade,Dade-33187,Miami,Miami,131
+33189,13,Dade,Dade-33189,Miami,"Cutler Bay, Miami",150
+33190,13,Dade,Dade-33190,Miami,"Cutler Bay, Miami, Quail Heights",108
+33193,13,Dade,Dade-33193,Miami,Miami,300
+33194,13,Dade,Dade-33194,Miami,Miami,135
+33196,13,Dade,Dade-33196,Miami,Miami,310
+33199,13,Dade,Dade-33199,Miami,Miami,-2
+33301,6,Broward,Broward-33301,Fort Lauderdale,"Fort Lauderdale, Hollywood, Pompano Beach, Weston",92
+33304,6,Broward,Broward-33304,Fort Lauderdale,Fort Lauderdale,102
+33305,6,Broward,Broward-33305,Fort Lauderdale,"Fort Lauderdale, Oakland Park, Wilton Manors",118
+33306,6,Broward,Broward-33306,Fort Lauderdale,"Fort Lauderdale, Oakland Park, Wilton Manors",13
+33308,6,Broward,Broward-33308,Fort Lauderdale,"Fort Lauderdale, Laud-by-the-sea, Lauderdale By The Sea, Oakland Park",106
+33309,6,Broward,Broward-33309,Fort Lauderdale,"Coral Springs, Fort Lauderdale, Hollywood, Lauderdale Lakes, Oakland Park, Pompano Beach, Tamarac",328
+33311,6,Broward,Broward-33311,Fort Lauderdale,"Fort Lauderdale, Lauderdale Lakes, Lauderhill, Oakland Park, Plantation, Wilton Manors",669
+33312,6,Broward,Broward-33312,Fort Lauderdale,"Davie, Fort Lauderdale",307
+33313,6,Broward,Broward-33313,Fort Lauderdale,"City Of Sunrise, Fort Lauderdale, Lauderdale Lakes, Lauderhill, Oakland Park, Plantation, Sunrise",482
+33314,6,Broward,Broward-33314,Fort Lauderdale,"Davie, Fort Lauderdale",148
+33315,6,Broward,Broward-33315,Fort Lauderdale,Fort Lauderdale,110
+33316,6,Broward,Broward-33316,Fort Lauderdale,"Fort Lauderdale, Port Everglades",339
+33317,6,Broward,Broward-33317,Fort Lauderdale,"Davie, Fort Lauderdale, Plantation",168
+33319,6,Broward,Broward-33319,Fort Lauderdale,"Fort Lauderdale, Lauderdale Lakes, Lauderhill, North Lauderdale, Tamarac",334
+33321,6,Broward,Broward-33321,Fort Lauderdale,"Fort Lauderdale, Tamarac",208
+33322,6,Broward,Broward-33322,Fort Lauderdale,"Fort Lauderdale, Plantation, Sunrise",138
+33323,6,Broward,Broward-33323,Fort Lauderdale,"Fort Lauderdale, Plantation, Sunrise",94
+33324,6,Broward,Broward-33324,Fort Lauderdale,"Davie, Fort Lauderdale, Plantation",154
+33325,6,Broward,Broward-33325,Fort Lauderdale,"Davie, Fort Lauderdale, Plantation, Sunrise",125
+33326,6,Broward,Broward-33326,Fort Lauderdale,"Davie, Fort Lauderdale, Sunrise, Weston",132
+33327,6,Broward,Broward-33327,Fort Lauderdale,"Fort Lauderdale, Weston",50
+33328,6,Broward,Broward-33328,Fort Lauderdale,"Cooper City, Davie, Fort Lauderdale",95
+33330,6,Broward,Broward-33330,Fort Lauderdale,"Cooper City, Davie, Fort Lauderdale, Southwest Ranches",46
+33331,6,Broward,Broward-33331,Fort Lauderdale,"Davie, Fort Lauderdale, Southwest Ranches, Weston",111
+33332,6,Broward,Broward-33332,Fort Lauderdale,"Fort Lauderdale, Southwest Ranches, Weston",28
+33334,6,Broward,Broward-33334,Fort Lauderdale,"Fort Lauderdale, Oakland Park, Wilton Manors",173
+33351,6,Broward,Broward-33351,Fort Lauderdale,"Fort Lauderdale, Lauderdale Lakes, Lauderhill, Miramar, Sunrise",161
+33401,50,Palm Beach,Palm Beach-33401,West Palm Beach,West Palm Beach,298
+33403,50,Palm Beach,Palm Beach-33403,West Palm Beach,"Lake Park, Riviera Beach, West Palm Beach",63
+33404,50,Palm Beach,Palm Beach-33404,West Palm Beach,"Palm Beach Shores, Riviera Beach, Singer Island, West Palm Beach",310
+33405,50,Palm Beach,Palm Beach-33405,West Palm Beach,West Palm Beach,223
+33406,50,Palm Beach,Palm Beach-33406,West Palm Beach,"Cloud Lake, Palm Springs, West Palm Beach",330
+33407,50,Palm Beach,Palm Beach-33407,West Palm Beach,"Mangonia Park, Riviera Beach, West Palm Beach",387
+33408,50,Palm Beach,Palm Beach-33408,North Palm Beach,"Juno Beach, North Palm Beach",63
+33409,50,Palm Beach,Palm Beach-33409,West Palm Beach,"Haverhill, West Palm Beach",270
+33410,50,Palm Beach,Palm Beach-33410,Palm Beach Gardens,"North Palm Beach, Palm Beach Gardens, Riviera Beach, West Palm Beach",209
+33411,50,Palm Beach,Palm Beach-33411,West Palm Beach,"Royal Palm Beach, Wellington, West Palm Beach",321
+33412,50,Palm Beach,Palm Beach-33412,West Palm Beach,"Palm Beach Gardens, Royal Palm Beach, West Palm Beach",68
+33413,50,Palm Beach,Palm Beach-33413,West Palm Beach,"Greenacres, West Palm Beach",120
+33414,50,Palm Beach,Palm Beach-33414,Wellington,"Wellington, West Palm Beach",214
+33415,50,Palm Beach,Palm Beach-33415,West Palm Beach,"Greenacres, Haverhill, West Palm Beach",547
+33417,50,Palm Beach,Palm Beach-33417,West Palm Beach,"Haverhill, West Palm Beach",254
+33418,50,Palm Beach,Palm Beach-33418,Palm Beach Gardens,"Palm Beach Gardens, Riviera Beach, West Palm Beach",151
+33426,50,Palm Beach,Palm Beach-33426,Boynton Beach,Boynton Beach,162
+33428,50,Palm Beach,Palm Beach-33428,Boca Raton,Boca Raton,216
+33430,50,Palm Beach,Palm Beach-33430,Belle Glade,Belle Glade,531
+33431,50,Palm Beach,Palm Beach-33431,Boca Raton,Boca Raton,83
+33432,50,Palm Beach,Palm Beach-33432,Boca Raton,Boca Raton,98
+33433,50,Palm Beach,Palm Beach-33433,Boca Raton,Boca Raton,228
+33434,50,Palm Beach,Palm Beach-33434,Boca Raton,Boca Raton,67
+33435,50,Palm Beach,Palm Beach-33435,Boynton Beach,"Boynton Beach, Ocean Ridge",403
+33436,50,Palm Beach,Palm Beach-33436,Boynton Beach,Boynton Beach,243
+33437,50,Palm Beach,Palm Beach-33437,Boynton Beach,Boynton Beach,169
+33438,43,Martin,Martin-33438,Canal Point,,0
+33438,50,Palm Beach,Palm Beach-33438,Canal Point,Canal Point,12
+33440,26,Hendry,Hendry-33440,Clewiston,Clewiston,489
+33440,50,Palm Beach,Palm Beach-33440,Clewiston,,0
+33441,6,Broward,Broward-33441,Deerfield Beach,Deerfield Beach,185
+33442,6,Broward,Broward-33442,Deerfield Beach,Deerfield Beach,121
+33444,50,Palm Beach,Palm Beach-33444,Delray Beach,Delray Beach,197
+33445,50,Palm Beach,Palm Beach-33445,Delray Beach,Delray Beach,179
+33446,50,Palm Beach,Palm Beach-33446,Delray Beach,Delray Beach,134
+33449,50,Palm Beach,Palm Beach-33449,Lake Worth,"Lake Worth, Wellington",53
+33455,43,Martin,Martin-33455,Hobe Sound,Hobe Sound,106
+33458,43,Martin,Martin-33458,Jupiter,,0
+33458,50,Palm Beach,Palm Beach-33458,Jupiter,Jupiter,400
+33460,50,Palm Beach,Palm Beach-33460,Lake Worth Beach,"Lake Worth, Lake Worth Beach",851
+33461,50,Palm Beach,Palm Beach-33461,Lake Worth,"Lake Worth, Lake Worth Beach, Palm Springs",622
+33462,50,Palm Beach,Palm Beach-33462,Lake Worth,"Atlantis, Hypoluxo, Lake Worth, Lantana, Manalapan",308
+33463,50,Palm Beach,Palm Beach-33463,Lake Worth,"Greenacres, Lake Worth",563
+33467,50,Palm Beach,Palm Beach-33467,Lake Worth,"Greenacres, Lake Worth, Wellington",270
+33469,43,Martin,Martin-33469,Jupiter,,0
+33469,50,Palm Beach,Palm Beach-33469,Jupiter,"Jupiter, Tequesta",47
+33470,50,Palm Beach,Palm Beach-33470,Loxahatchee,"Loxahatchee, Loxahatchee Groves, Wellington",101
+33471,22,Glades,Glades-33471,Moore Haven,Moore Haven,136
+33472,50,Palm Beach,Palm Beach-33472,Boynton Beach,Boynton Beach,59
+33473,50,Palm Beach,Palm Beach-33473,Boynton Beach,Boynton Beach,23
+33476,50,Palm Beach,Palm Beach-33476,Pahokee,Pahokee,214
+33477,50,Palm Beach,Palm Beach-33477,Jupiter,Jupiter,41
+33478,43,Martin,Martin-33478,Jupiter,,0
+33478,50,Palm Beach,Palm Beach-33478,Jupiter,Jupiter,32
+33480,50,Palm Beach,Palm Beach-33480,Palm Beach,"Palm Beach, South Palm Beach",41
+33483,50,Palm Beach,Palm Beach-33483,Delray Beach,Delray Beach,46
+33484,50,Palm Beach,Palm Beach-33484,Delray Beach,"Delray Beach, West Delray Beach",191
+33486,50,Palm Beach,Palm Beach-33486,Boca Raton,Boca Raton,168
+33487,50,Palm Beach,Palm Beach-33487,Boca Raton,Boca Raton,64
+33493,50,Palm Beach,Palm Beach-33493,South Bay,South Bay,245
+33496,50,Palm Beach,Palm Beach-33496,Boca Raton,Boca Raton,69
+33498,50,Palm Beach,Palm Beach-33498,Boca Raton,Boca Raton,49
+33510,29,Hillsborough,Hillsborough-33510,Brandon,Brandon,114
+33511,29,Hillsborough,Hillsborough-33511,Brandon,Brandon,268
+33513,60,Sumter,Sumter-33513,Bushnell,Bushnell,123
+33514,60,Sumter,Sumter-33514,Center Hill,Center Hill,-2
+33523,27,Hernando,Hernando-33523,Dade City,,0
+33523,51,Pasco,Pasco-33523,Dade City,Dade City,20
+33525,51,Pasco,Pasco-33525,Dade City,Dade City,96
+33527,29,Hillsborough,Hillsborough-33527,Dover,Dover,47
+33534,29,Hillsborough,Hillsborough-33534,Gibsonton,Gibsonton,57
+33538,60,Sumter,Sumter-33538,Lake Panasoffkee,Lake Panasoffkee,22
+33540,29,Hillsborough,Hillsborough-33540,Zephyrhills,,0
+33540,51,Pasco,Pasco-33540,Zephyrhills,Zephyrhills,8
+33541,51,Pasco,Pasco-33541,Zephyrhills,Zephyrhills,26
+33542,51,Pasco,Pasco-33542,Zephyrhills,Zephyrhills,35
+33543,51,Pasco,Pasco-33543,Wesley Chapel,"Wesley Chapel, Zephyrhills",68
+33544,51,Pasco,Pasco-33544,Wesley Chapel,"Wesley Chapel, Zephyrhills",74
+33545,51,Pasco,Pasco-33545,Wesley Chapel,Wesley Chapel,41
+33547,29,Hillsborough,Hillsborough-33547,Lithia,Lithia,32
+33547,53,Polk,Polk-33547,Lithia,,0
+33548,29,Hillsborough,Hillsborough-33548,Lutz,Lutz,19
+33548,51,Pasco,Pasco-33548,Lutz,,0
+33549,29,Hillsborough,Hillsborough-33549,Lutz,Lutz,38
+33549,51,Pasco,Pasco-33549,Lutz,Lutz,-2
+33556,29,Hillsborough,Hillsborough-33556,Odessa,Odessa,56
+33556,51,Pasco,Pasco-33556,Odessa,Odessa,6
+33558,29,Hillsborough,Hillsborough-33558,Lutz,Lutz,46
+33558,51,Pasco,Pasco-33558,Lutz,Lutz,-2
+33559,29,Hillsborough,Hillsborough-33559,Lutz,Lutz,30
+33559,51,Pasco,Pasco-33559,Lutz,Lutz,-2
+33563,29,Hillsborough,Hillsborough-33563,Plant City,Plant City,175
+33565,29,Hillsborough,Hillsborough-33565,Plant City,Plant City,39
+33566,29,Hillsborough,Hillsborough-33566,Plant City,Plant City,89
+33567,29,Hillsborough,Hillsborough-33567,Plant City,Plant City,31
+33569,29,Hillsborough,Hillsborough-33569,Riverview,Riverview,60
+33570,29,Hillsborough,Hillsborough-33570,Ruskin,Ruskin,158
+33572,29,Hillsborough,Hillsborough-33572,Apollo Beach,Apollo Beach,50
+33573,29,Hillsborough,Hillsborough-33573,Sun City Center,"Ruskin, Sun City Center",63
+33576,51,Pasco,Pasco-33576,San Antonio,San Antonio,-2
+33578,29,Hillsborough,Hillsborough-33578,Riverview,Riverview,188
+33579,29,Hillsborough,Hillsborough-33579,Riverview,Riverview,113
+33584,29,Hillsborough,Hillsborough-33584,Seffner,Seffner,79
+33585,60,Sumter,Sumter-33585,Sumterville,Sumterville,5
+33592,29,Hillsborough,Hillsborough-33592,Thonotosassa,Thonotosassa,39
+33594,29,Hillsborough,Hillsborough-33594,Valrico,Valrico,75
+33596,29,Hillsborough,Hillsborough-33596,Valrico,Valrico,51
+33597,27,Hernando,Hernando-33597,Webster,,-2
+33597,51,Pasco,Pasco-33597,Webster,,0
+33597,60,Sumter,Sumter-33597,Webster,Webster,12
+33598,29,Hillsborough,Hillsborough-33598,Wimauma,Wimauma,102
+33598,41,Manatee,Manatee-33598,Wimauma,Wimauma,-2
+33602,29,Hillsborough,Hillsborough-33602,Tampa,Tampa,184
+33603,29,Hillsborough,Hillsborough-33603,Tampa,Tampa,74
+33604,29,Hillsborough,Hillsborough-33604,Tampa,Tampa,131
+33605,29,Hillsborough,Hillsborough-33605,Tampa,Tampa,110
+33606,29,Hillsborough,Hillsborough-33606,Tampa,Tampa,159
+33607,29,Hillsborough,Hillsborough-33607,Tampa,Tampa,237
+33609,29,Hillsborough,Hillsborough-33609,Tampa,Tampa,98
+33610,29,Hillsborough,Hillsborough-33610,Tampa,Tampa,328
+33611,29,Hillsborough,Hillsborough-33611,Tampa,Tampa,130
+33612,29,Hillsborough,Hillsborough-33612,Tampa,Tampa,369
+33613,29,Hillsborough,Hillsborough-33613,Tampa,Tampa,268
+33614,29,Hillsborough,Hillsborough-33614,Tampa,Tampa,263
+33615,29,Hillsborough,Hillsborough-33615,Tampa,"Tampa, Town N Country",209
+33616,29,Hillsborough,Hillsborough-33616,Tampa,Tampa,79
+33617,29,Hillsborough,Hillsborough-33617,Tampa,"Tampa, Temple Terrace",178
+33618,29,Hillsborough,Hillsborough-33618,Tampa,"Carrollwood, Tampa",88
+33619,29,Hillsborough,Hillsborough-33619,Tampa,Tampa,254
+33620,29,Hillsborough,Hillsborough-33620,Tampa,Tampa,-2
+33621,29,Hillsborough,Hillsborough-33621,Tampa,Tampa,6
+33624,29,Hillsborough,Hillsborough-33624,Tampa,Tampa,115
+33625,29,Hillsborough,Hillsborough-33625,Tampa,"Carrollwood, Tampa",76
+33626,29,Hillsborough,Hillsborough-33626,Tampa,"Tampa, Westchase",70
+33629,29,Hillsborough,Hillsborough-33629,Tampa,Tampa,96
+33634,29,Hillsborough,Hillsborough-33634,Tampa,Tampa,74
+33635,29,Hillsborough,Hillsborough-33635,Tampa,Tampa,50
+33637,29,Hillsborough,Hillsborough-33637,Tampa,"Tampa, Temple Terrace",74
+33647,29,Hillsborough,Hillsborough-33647,Tampa,"Tampa, Tampa Palms",176
+33701,52,Pinellas,Pinellas-33701,Saint Petersburg,Saint Petersburg,160
+33702,52,Pinellas,Pinellas-33702,Saint Petersburg,"Lealman, Saint Petersburg",180
+33703,52,Pinellas,Pinellas-33703,Saint Petersburg,Saint Petersburg,84
+33704,52,Pinellas,Pinellas-33704,Saint Petersburg,Saint Petersburg,50
+33705,52,Pinellas,Pinellas-33705,Saint Petersburg,Saint Petersburg,302
+33706,52,Pinellas,Pinellas-33706,Saint Petersburg,"Saint Pete Beach, Saint Petersburg, Treasure Island",38
+33707,52,Pinellas,Pinellas-33707,Saint Petersburg,"Gulfport, Pasadena, Saint Petersburg, South Pasadena",91
+33708,52,Pinellas,Pinellas-33708,Saint Petersburg,"Madeira Beach, North Redington Beach, Saint Petersburg",34
+33709,52,Pinellas,Pinellas-33709,Saint Petersburg,"Kenneth City, Saint Petersburg",114
+33710,52,Pinellas,Pinellas-33710,Saint Petersburg,Saint Petersburg,130
+33711,52,Pinellas,Pinellas-33711,Saint Petersburg,Saint Petersburg,199
+33712,52,Pinellas,Pinellas-33712,Saint Petersburg,Saint Petersburg,277
+33713,52,Pinellas,Pinellas-33713,Saint Petersburg,Saint Petersburg,139
+33714,52,Pinellas,Pinellas-33714,Saint Petersburg,"Lealman, Saint Petersburg",80
+33715,52,Pinellas,Pinellas-33715,Saint Petersburg,"Saint Petersburg, Tierra Verde",21
+33716,52,Pinellas,Pinellas-33716,Saint Petersburg,Saint Petersburg,167
+33755,52,Pinellas,Pinellas-33755,Clearwater,Clearwater,110
+33756,52,Pinellas,Pinellas-33756,Clearwater,"Belleair, Clearwater",131
+33759,52,Pinellas,Pinellas-33759,Clearwater,Clearwater,68
+33760,52,Pinellas,Pinellas-33760,Clearwater,Clearwater,56
+33761,52,Pinellas,Pinellas-33761,Clearwater,Clearwater,53
+33762,52,Pinellas,Pinellas-33762,Clearwater,Clearwater,25
+33763,52,Pinellas,Pinellas-33763,Clearwater,Clearwater,45
+33764,52,Pinellas,Pinellas-33764,Clearwater,Clearwater,67
+33765,52,Pinellas,Pinellas-33765,Clearwater,Clearwater,53
+33767,52,Pinellas,Pinellas-33767,Clearwater Beach,Clearwater Beach,32
+33770,52,Pinellas,Pinellas-33770,Largo,"Belleair Bluffs, Largo",78
+33771,52,Pinellas,Pinellas-33771,Largo,Largo,119
+33772,52,Pinellas,Pinellas-33772,Seminole,Seminole,102
+33773,52,Pinellas,Pinellas-33773,Largo,Largo,82
+33774,52,Pinellas,Pinellas-33774,Largo,Largo,52
+33776,52,Pinellas,Pinellas-33776,Seminole,Seminole,34
+33777,52,Pinellas,Pinellas-33777,Seminole,"Largo, Seminole",117
+33778,52,Pinellas,Pinellas-33778,Largo,"Largo, Seminole",55
+33781,52,Pinellas,Pinellas-33781,Pinellas Park,Pinellas Park,98
+33782,52,Pinellas,Pinellas-33782,Pinellas Park,Pinellas Park,89
+33785,52,Pinellas,Pinellas-33785,Indian Rocks Beach,"Indian Rock Beach, Indian Rocks Beach, Indian Shores",17
+33786,52,Pinellas,Pinellas-33786,Belleair Beach,Belleair Beach,5
+33801,53,Polk,Polk-33801,Lakeland,Lakeland,104
+33803,53,Polk,Polk-33803,Lakeland,Lakeland,70
+33805,53,Polk,Polk-33805,Lakeland,"Gibsonia, Lakeland",167
+33809,53,Polk,Polk-33809,Lakeland,Lakeland,71
+33810,29,Hillsborough,Hillsborough-33810,Lakeland,,0
+33810,53,Polk,Polk-33810,Lakeland,Lakeland,106
+33811,53,Polk,Polk-33811,Lakeland,Lakeland,49
+33812,53,Polk,Polk-33812,Lakeland,Lakeland,29
+33813,53,Polk,Polk-33813,Lakeland,Lakeland,150
+33815,53,Polk,Polk-33815,Lakeland,Lakeland,37
+33823,53,Polk,Polk-33823,Auburndale,Auburndale,100
+33825,25,Hardee,Hardee-33825,Avon Park,,0
+33825,28,Highlands,Highlands-33825,Avon Park,Avon Park,79
+33825,53,Polk,Polk-33825,Avon Park,,0
+33827,53,Polk,Polk-33827,Babson Park,Babson Park,5
+33830,53,Polk,Polk-33830,Bartow,Bartow,154
+33834,25,Hardee,Hardee-33834,Bowling Green,Bowling Green,98
+33834,53,Polk,Polk-33834,Bowling Green,,0
+33837,53,Polk,Polk-33837,Davenport,Davenport,65
+33838,53,Polk,Polk-33838,Dundee,Dundee,8
+33839,53,Polk,Polk-33839,Eagle Lake,Eagle Lake,19
+33841,53,Polk,Polk-33841,Fort Meade,Fort Meade,55
+33843,53,Polk,Polk-33843,Frostproof,Frostproof,30
+33844,53,Polk,Polk-33844,Haines City,Haines City,80
+33849,53,Polk,Polk-33849,Kathleen,Kathleen,-2
+33850,53,Polk,Polk-33850,Lake Alfred,Lake Alfred,21
+33852,28,Highlands,Highlands-33852,Lake Placid,Lake Placid,37
+33853,53,Polk,Polk-33853,Lake Wales,Lake Wales,52
+33854,53,Polk,Polk-33854,Lakeshore,,0
+33855,53,Polk,Polk-33855,Indian Lake Estates,Indian Lake Estates,-2
+33856,53,Polk,Polk-33856,Nalcrest,,0
+33857,28,Highlands,Highlands-33857,Lorida,Lorida,-2
+33859,53,Polk,Polk-33859,Lake Wales,Lake Wales,16
+33860,53,Polk,Polk-33860,Mulberry,Mulberry,76
+33865,25,Hardee,Hardee-33865,Ona,Ona,5
+33867,53,Polk,Polk-33867,River Ranch,,0
+33868,53,Polk,Polk-33868,Polk City,Polk City,21
+33870,28,Highlands,Highlands-33870,Sebring,Sebring,87
+33872,28,Highlands,Highlands-33872,Sebring,Sebring,21
+33873,25,Hardee,Hardee-33873,Wauchula,Wauchula,183
+33875,28,Highlands,Highlands-33875,Sebring,Sebring,9
+33876,28,Highlands,Highlands-33876,Sebring,Sebring,9
+33880,53,Polk,Polk-33880,Winter Haven,"Wahneta, Winter Haven",202
+33881,53,Polk,Polk-33881,Winter Haven,Winter Haven,180
+33884,53,Polk,Polk-33884,Winter Haven,"Cypress Gardens, Winter Haven",117
+33890,25,Hardee,Hardee-33890,Zolfo Springs,Zolfo Springs,27
+33896,49,Osceola,Osceola-33896,Davenport,Davenport,-2
+33896,53,Polk,Polk-33896,Davenport,"Champions Gate, Davenport",40
+33897,53,Polk,Polk-33897,Davenport,Davenport,68
+33898,49,Osceola,Osceola-33898,Lake Wales,,0
+33898,53,Polk,Polk-33898,Lake Wales,Lake Wales,39
+33901,36,Lee,Lee-33901,Fort Myers,"Fort Myers, Punta Gorda",204
+33903,36,Lee,Lee-33903,North Fort Myers,"Fort Myers, North Fort Myers",59
+33904,36,Lee,Lee-33904,Cape Coral,Cape Coral,76
+33905,36,Lee,Lee-33905,Fort Myers,"Buckingham, Fort Myers, Tice",276
+33907,36,Lee,Lee-33907,Fort Myers,Fort Myers,276
+33908,36,Lee,Lee-33908,Fort Myers,Fort Myers,150
+33909,36,Lee,Lee-33909,Cape Coral,Cape Coral,158
+33912,36,Lee,Lee-33912,Fort Myers,"Fort Myers, San Carlos Park",127
+33913,36,Lee,Lee-33913,Fort Myers,"Fort Myers, Miromar Lakes",87
+33914,36,Lee,Lee-33914,Cape Coral,Cape Coral,108
+33916,36,Lee,Lee-33916,Fort Myers,"Fort Myers, Lehigh Acres",235
+33917,8,Charlotte,Charlotte-33917,North Fort Myers,,0
+33917,36,Lee,Lee-33917,North Fort Myers,"Fort Myers, North Fort Myers",62
+33919,36,Lee,Lee-33919,Fort Myers,Fort Myers,76
+33920,36,Lee,Lee-33920,Alva,Alva,11
+33921,36,Lee,Lee-33921,Boca Grande,Boca Grande,-2
+33922,36,Lee,Lee-33922,Bokeelia,Bokeelia,-2
+33924,36,Lee,Lee-33924,Captiva,Captiva,-2
+33928,36,Lee,Lee-33928,Estero,Estero,89
+33931,36,Lee,Lee-33931,Fort Myers Beach,Fort Myers Beach,19
+33935,22,Glades,Glades-33935,Labelle,Labelle,-2
+33935,26,Hendry,Hendry-33935,Labelle,"Fort Denaud, Labelle",267
+33936,26,Hendry,Hendry-33936,Lehigh Acres,,0
+33936,36,Lee,Lee-33936,Lehigh Acres,"Lehigh, Lehigh Acres",147
+33944,22,Glades,Glades-33944,Palmdale,Palmdale,-2
+33946,8,Charlotte,Charlotte-33946,Placida,Placida,5
+33947,8,Charlotte,Charlotte-33947,Rotonda West,"Cape Haze, Rotunda West",20
+33948,8,Charlotte,Charlotte-33948,Port Charlotte,Port Charlotte,59
+33950,8,Charlotte,Charlotte-33950,Punta Gorda,Punta Gorda,52
+33952,8,Charlotte,Charlotte-33952,Port Charlotte,Port Charlotte,125
+33953,8,Charlotte,Charlotte-33953,Port Charlotte,Port Charlotte,16
+33954,8,Charlotte,Charlotte-33954,Port Charlotte,Port Charlotte,25
+33955,8,Charlotte,Charlotte-33955,Punta Gorda,Punta Gorda,13
+33955,36,Lee,Lee-33955,Punta Gorda,,0
+33956,36,Lee,Lee-33956,Saint James City,Saint James City,-2
+33957,36,Lee,Lee-33957,Sanibel,Sanibel,13
+33960,22,Glades,Glades-33960,Venus,,0
+33960,28,Highlands,Highlands-33960,Venus,Venus,6
+33965,36,Lee,Lee-33965,Fort Myers,Fort Myers,-2
+33966,36,Lee,Lee-33966,Fort Myers,Fort Myers,44
+33967,36,Lee,Lee-33967,Fort Myers,"Estero, Fort Myers",101
+33971,36,Lee,Lee-33971,Lehigh Acres,Lehigh Acres,237
+33972,36,Lee,Lee-33972,Lehigh Acres,Lehigh Acres,91
+33973,36,Lee,Lee-33973,Lehigh Acres,Lehigh Acres,106
+33974,36,Lee,Lee-33974,Lehigh Acres,Lehigh Acres,143
+33976,36,Lee,Lee-33976,Lehigh Acres,"Lehigh, Lehigh Acres",129
+33980,8,Charlotte,Charlotte-33980,Punta Gorda,"Port Charlotte, Punta Gorda",130
+33981,8,Charlotte,Charlotte-33981,Port Charlotte,Port Charlotte,23
+33982,8,Charlotte,Charlotte-33982,Punta Gorda,Punta Gorda,23
+33983,8,Charlotte,Charlotte-33983,Punta Gorda,"Port Charlotte, Punta Gorda",57
+33990,36,Lee,Lee-33990,Cape Coral,Cape Coral,130
+33991,36,Lee,Lee-33991,Cape Coral,Cape Coral,91
+33993,36,Lee,Lee-33993,Cape Coral,"Cape Coral, Matlacha",136
+34102,11,Collier,Collier-34102,Naples,Naples,102
+34103,11,Collier,Collier-34103,Naples,Naples,36
+34104,11,Collier,Collier-34104,Naples,Naples,223
+34105,11,Collier,Collier-34105,Naples,Naples,48
+34108,11,Collier,Collier-34108,Naples,Naples,59
+34109,11,Collier,Collier-34109,Naples,Naples,121
+34110,11,Collier,Collier-34110,Naples,Naples,85
+34110,36,Lee,Lee-34110,Naples,,0
+34112,11,Collier,Collier-34112,Naples,Naples,158
+34113,11,Collier,Collier-34113,Naples,Naples,164
+34114,11,Collier,Collier-34114,Naples,Naples,88
+34116,11,Collier,Collier-34116,Naples,Naples,316
+34117,11,Collier,Collier-34117,Naples,Naples,78
+34119,11,Collier,Collier-34119,Naples,Naples,131
+34119,36,Lee,Lee-34119,Naples,,0
+34120,11,Collier,Collier-34120,Naples,Naples,243
+34134,11,Collier,Collier-34134,Bonita Springs,,0
+34134,36,Lee,Lee-34134,Bonita Springs,"Bonita Springs, Estero",28
+34135,36,Lee,Lee-34135,Bonita Springs,"Bonita Springs, Estero",210
+34138,11,Collier,Collier-34138,Chokoloskee,,0
+34139,11,Collier,Collier-34139,Everglades City,Everglades City,-2
+34140,11,Collier,Collier-34140,Goodland,Goodland,-2
+34141,11,Collier,Collier-34141,Ochopee,Ochopee,-2
+34142,11,Collier,Collier-34142,Immokalee,"Ave Maria, Immokalee",1327
+34142,26,Hendry,Hendry-34142,Immokalee,,0
+34145,11,Collier,Collier-34145,Marco Island,Marco Island,23
+34201,41,Manatee,Manatee-34201,Bradenton,"Bradenton, University Park",7
+34202,41,Manatee,Manatee-34202,Bradenton,"Bradenton, Lakewood Ranch",74
+34203,41,Manatee,Manatee-34203,Bradenton,"Braden River, Bradenton",243
+34205,41,Manatee,Manatee-34205,Bradenton,"Bradenton, West Bradenton",204
+34207,41,Manatee,Manatee-34207,Bradenton,"Bayshore Gardens, Bradenton",201
+34208,41,Manatee,Manatee-34208,Bradenton,Bradenton,427
+34209,41,Manatee,Manatee-34209,Bradenton,"Bradenton, Palma Sola",125
+34210,41,Manatee,Manatee-34210,Bradenton,Bradenton,67
+34211,41,Manatee,Manatee-34211,Bradenton,"Bradenton, Lakewood Ranch",24
+34212,41,Manatee,Manatee-34212,Bradenton,Bradenton,35
+34215,41,Manatee,Manatee-34215,Cortez,,0
+34216,41,Manatee,Manatee-34216,Anna Maria,,0
+34217,41,Manatee,Manatee-34217,Bradenton Beach,"Bradenton Beach, Holmes Beach",8
+34219,41,Manatee,Manatee-34219,Parrish,Parrish,71
+34221,41,Manatee,Manatee-34221,Palmetto,"Bradenton, Palmetto, Rubonia",330
+34222,41,Manatee,Manatee-34222,Ellenton,Ellenton,56
+34223,8,Charlotte,Charlotte-34223,Englewood,,0
+34223,58,Sarasota,Sarasota-34223,Englewood,Englewood,13
+34224,8,Charlotte,Charlotte-34224,Englewood,Englewood,18
+34224,58,Sarasota,Sarasota-34224,Englewood,,0
+34228,41,Manatee,Manatee-34228,Longboat Key,"Long Boat Key, Longboat Key",6
+34228,58,Sarasota,Sarasota-34228,Longboat Key,Longboat Key,-2
+34229,58,Sarasota,Sarasota-34229,Osprey,Osprey,11
+34231,58,Sarasota,Sarasota-34231,Sarasota,Sarasota,79
+34232,58,Sarasota,Sarasota-34232,Sarasota,Sarasota,71
+34233,58,Sarasota,Sarasota-34233,Sarasota,"Sarasota, West Villages",41
+34234,58,Sarasota,Sarasota-34234,Sarasota,Sarasota,80
+34235,58,Sarasota,Sarasota-34235,Sarasota,Sarasota,102
+34236,58,Sarasota,Sarasota-34236,Sarasota,Sarasota,49
+34237,58,Sarasota,Sarasota-34237,Sarasota,Sarasota,90
+34238,58,Sarasota,Sarasota-34238,Sarasota,Sarasota,49
+34239,58,Sarasota,Sarasota-34239,Sarasota,Sarasota,78
+34240,41,Manatee,Manatee-34240,Sarasota,,0
+34240,58,Sarasota,Sarasota-34240,Sarasota,Sarasota,22
+34241,58,Sarasota,Sarasota-34241,Sarasota,Sarasota,23
+34242,58,Sarasota,Sarasota-34242,Sarasota,"Sarasota, Siesta Key",16
+34243,41,Manatee,Manatee-34243,Sarasota,Sarasota,64
+34243,58,Sarasota,Sarasota-34243,Sarasota,Sarasota,11
+34251,41,Manatee,Manatee-34251,Myakka City,Myakka City,44
+34251,58,Sarasota,Sarasota-34251,Myakka City,,0
+34266,14,Desoto,Desoto-34266,Arcadia,Arcadia,457
+34266,58,Sarasota,Sarasota-34266,Arcadia,,0
+34269,14,Desoto,Desoto-34269,Arcadia,"Arcadia, Lake Suzy",18
+34275,58,Sarasota,Sarasota-34275,Nokomis,"Nokomis, North Venice",23
+34285,58,Sarasota,Sarasota-34285,Venice,Venice,25
+34286,58,Sarasota,Sarasota-34286,North Port,North Port,49
+34287,58,Sarasota,Sarasota-34287,North Port,North Port,40
+34288,58,Sarasota,Sarasota-34288,North Port,North Port,36
+34289,58,Sarasota,Sarasota-34289,North Port,North Port,-2
+34291,58,Sarasota,Sarasota-34291,North Port,North Port,17
+34292,58,Sarasota,Sarasota-34292,Venice,Venice,18
+34293,58,Sarasota,Sarasota-34293,Venice,Venice,52
+34420,42,Marion,Marion-34420,Belleview,Belleview,24
+34428,9,Citrus,Citrus-34428,Crystal River,Crystal River,14
+34429,9,Citrus,Citrus-34429,Crystal River,Crystal River,15
+34431,38,Levy,Levy-34431,Dunnellon,,0
+34431,42,Marion,Marion-34431,Dunnellon,Dunnellon,10
+34432,42,Marion,Marion-34432,Dunnellon,Dunnellon,10
+34433,9,Citrus,Citrus-34433,Dunnellon,"Citrus Springs, Dunnellon",5
+34434,9,Citrus,Citrus-34434,Dunnellon,"Citrus Springs, Dunnellon",19
+34436,9,Citrus,Citrus-34436,Floral City,Floral City,6
+34442,9,Citrus,Citrus-34442,Hernando,Hernando,12
+34445,9,Citrus,Citrus-34445,Holder,,0
+34446,9,Citrus,Citrus-34446,Homosassa,Homosassa,11
+34448,9,Citrus,Citrus-34448,Homosassa,Homosassa,6
+34449,9,Citrus,Citrus-34449,Inglis,,0
+34449,38,Levy,Levy-34449,Inglis,,0
+34450,9,Citrus,Citrus-34450,Inverness,Inverness,15
+34452,9,Citrus,Citrus-34452,Inverness,Inverness,50
+34453,9,Citrus,Citrus-34453,Inverness,Inverness,19
+34461,9,Citrus,Citrus-34461,Lecanto,Lecanto,18
+34465,9,Citrus,Citrus-34465,Beverly Hills,Beverly Hills,13
+34470,42,Marion,Marion-34470,Ocala,Ocala,16
+34471,42,Marion,Marion-34471,Ocala,Ocala,52
+34472,42,Marion,Marion-34472,Ocala,Ocala,34
+34473,42,Marion,Marion-34473,Ocala,Ocala,37
+34474,42,Marion,Marion-34474,Ocala,Ocala,34
+34475,42,Marion,Marion-34475,Ocala,Ocala,11
+34476,42,Marion,Marion-34476,Ocala,Ocala,34
+34479,42,Marion,Marion-34479,Ocala,Ocala,16
+34480,42,Marion,Marion-34480,Ocala,Ocala,23
+34481,42,Marion,Marion-34481,Ocala,Ocala,11
+34482,42,Marion,Marion-34482,Ocala,Ocala,19
+34484,60,Sumter,Sumter-34484,Oxford,Oxford,20
+34488,42,Marion,Marion-34488,Silver Springs,Silver Springs,7
+34491,42,Marion,Marion-34491,Summerfield,Summerfield,48
+34498,38,Levy,Levy-34498,Yankeetown,Yankeetown,-2
+34601,27,Hernando,Hernando-34601,Brooksville,Brooksville,24
+34602,27,Hernando,Hernando-34602,Brooksville,Brooksville,-2
+34604,27,Hernando,Hernando-34604,Brooksville,Brooksville,13
+34606,27,Hernando,Hernando-34606,Spring Hill,"Brooksville, Spring Hill",30
+34607,27,Hernando,Hernando-34607,Spring Hill,"Brooksville, Hernando Beach, Spring Hill",8
+34608,27,Hernando,Hernando-34608,Spring Hill,"Brooksville, Spring Hill",55
+34609,27,Hernando,Hernando-34609,Spring Hill,"Brooksville, Spring Hill",44
+34610,51,Pasco,Pasco-34610,Spring Hill,Spring Hill,10
+34613,27,Hernando,Hernando-34613,Brooksville,"Brooksville, Spring Hill, Weeki Wachee",15
+34614,27,Hernando,Hernando-34614,Brooksville,"Brooksville, Weeki Wachee",-2
+34637,51,Pasco,Pasco-34637,Land O Lakes,Land O Lakes,24
+34638,51,Pasco,Pasco-34638,Land O Lakes,Land O Lakes,59
+34639,51,Pasco,Pasco-34639,Land O Lakes,Land O Lakes,50
+34652,51,Pasco,Pasco-34652,New Port Richey,New Port Richey,43
+34653,51,Pasco,Pasco-34653,New Port Richey,New Port Richey,55
+34654,51,Pasco,Pasco-34654,New Port Richey,New Port Richey,41
+34655,51,Pasco,Pasco-34655,New Port Richey,"New Port Richey, Seven Springs, Trinity",78
+34661,27,Hernando,Hernando-34661,Nobleton,,0
+34667,51,Pasco,Pasco-34667,Hudson,"Bayonet Point, Hudson",42
+34668,51,Pasco,Pasco-34668,Port Richey,Port Richey,63
+34669,51,Pasco,Pasco-34669,Hudson,Hudson,21
+34677,52,Pinellas,Pinellas-34677,Oldsmar,Oldsmar,40
+34681,52,Pinellas,Pinellas-34681,Crystal Beach,Crystal Beach,5
+34683,52,Pinellas,Pinellas-34683,Palm Harbor,Palm Harbor,74
+34684,52,Pinellas,Pinellas-34684,Palm Harbor,Palm Harbor,71
+34685,52,Pinellas,Pinellas-34685,Palm Harbor,Palm Harbor,35
+34688,52,Pinellas,Pinellas-34688,Tarpon Springs,Tarpon Springs,20
+34689,52,Pinellas,Pinellas-34689,Tarpon Springs,Tarpon Springs,61
+34690,51,Pasco,Pasco-34690,Holiday,Holiday,24
+34691,51,Pasco,Pasco-34691,Holiday,Holiday,44
+34695,52,Pinellas,Pinellas-34695,Safety Harbor,Safety Harbor,31
+34698,52,Pinellas,Pinellas-34698,Dunedin,Dunedin,64
+34705,35,Lake,Lake-34705,Astatula,Astatula,-2
+34711,35,Lake,Lake-34711,Clermont,Clermont,120
+34714,35,Lake,Lake-34714,Clermont,Clermont,64
+34715,35,Lake,Lake-34715,Clermont,"Clermont, Minneola",34
+34731,35,Lake,Lake-34731,Fruitland Park,Fruitland Park,8
+34734,48,Orange,Orange-34734,Gotha,Gotha,20
+34736,35,Lake,Lake-34736,Groveland,Groveland,32
+34737,35,Lake,Lake-34737,Howey In The Hills,Howey-in-the-hills,5
+34739,31,Indian River,Indian River-34739,Kenansville,,0
+34739,49,Osceola,Osceola-34739,Kenansville,Kenansville,-2
+34741,49,Osceola,Osceola-34741,Kissimmee,Kissimmee,189
+34743,49,Osceola,Osceola-34743,Kissimmee,Kissimmee,163
+34744,49,Osceola,Osceola-34744,Kissimmee,Kissimmee,218
+34746,49,Osceola,Osceola-34746,Kissimmee,Kissimmee,135
+34747,49,Osceola,Osceola-34747,Kissimmee,"Celebration, Kissimmee, Reunion",64
+34748,35,Lake,Lake-34748,Leesburg,Leesburg,81
+34753,35,Lake,Lake-34753,Mascotte,Mascotte,15
+34756,35,Lake,Lake-34756,Montverde,Montverde,9
+34758,49,Osceola,Osceola-34758,Kissimmee,"Kissimmee, Poinciana",83
+34759,49,Osceola,Osceola-34759,Kissimmee,Kissimmee,-2
+34759,53,Polk,Polk-34759,Kissimmee,"Kissimmee, Poinciana",97
+34760,48,Orange,Orange-34760,Oakland,Oakland,-2
+34761,48,Orange,Orange-34761,Ocoee,Ocoee,149
+34762,35,Lake,Lake-34762,Okahumpka,Okahumpka,-2
+34769,49,Osceola,Osceola-34769,Saint Cloud,Saint Cloud,115
+34771,49,Osceola,Osceola-34771,Saint Cloud,Saint Cloud,47
+34772,49,Osceola,Osceola-34772,Saint Cloud,Saint Cloud,66
+34773,49,Osceola,Osceola-34773,Saint Cloud,"Harmony, Saint Cloud",7
+34785,60,Sumter,Sumter-34785,Wildwood,Wildwood,11
+34786,48,Orange,Orange-34786,Windermere,Windermere,106
+34787,35,Lake,Lake-34787,Winter Garden,,0
+34787,48,Orange,Orange-34787,Winter Garden,"Oakland, Winter Garden",168
+34788,35,Lake,Lake-34788,Leesburg,Leesburg,21
+34797,35,Lake,Lake-34797,Yalaha,Yalaha,-2
+34945,56,St. Lucie,St. Lucie-34945,Fort Pierce,Fort Pierce,34
+34946,56,St. Lucie,St. Lucie-34946,Fort Pierce,Fort Pierce,17
+34947,56,St. Lucie,St. Lucie-34947,Fort Pierce,Fort Pierce,56
+34949,56,St. Lucie,St. Lucie-34949,Fort Pierce,"Fort Pierce, Hutchinson Island",-2
+34950,56,St. Lucie,St. Lucie-34950,Fort Pierce,Fort Pierce,130
+34951,56,St. Lucie,St. Lucie-34951,Fort Pierce,Fort Pierce,44
+34952,56,St. Lucie,St. Lucie-34952,Port Saint Lucie,Port Saint Lucie,181
+34953,56,St. Lucie,St. Lucie-34953,Port Saint Lucie,"Fort Pierce, Port Saint Lucie",291
+34956,43,Martin,Martin-34956,Indiantown,Indiantown,617
+34957,43,Martin,Martin-34957,Jensen Beach,Jensen Beach,42
+34957,56,St. Lucie,St. Lucie-34957,Jensen Beach,,0
+34972,47,Okeechobee,Okeechobee-34972,Okeechobee,Okeechobee,162
+34972,49,Osceola,Osceola-34972,Okeechobee,,0
+34972,56,St. Lucie,St. Lucie-34972,Okeechobee,,0
+34974,22,Glades,Glades-34974,Okeechobee,,0
+34974,28,Highlands,Highlands-34974,Okeechobee,,0
+34974,43,Martin,Martin-34974,Okeechobee,Okeechobee,-2
+34974,47,Okeechobee,Okeechobee-34974,Okeechobee,Okeechobee,89
+34974,50,Palm Beach,Palm Beach-34974,Okeechobee,,0
+34981,56,St. Lucie,St. Lucie-34981,Fort Pierce,Fort Pierce,15
+34982,56,St. Lucie,St. Lucie-34982,Fort Pierce,Fort Pierce,105
+34983,56,St. Lucie,St. Lucie-34983,Port Saint Lucie,"Fort Pierce, Port Saint Lucie",169
+34984,56,St. Lucie,St. Lucie-34984,Port Saint Lucie,Port Saint Lucie,53
+34986,56,St. Lucie,St. Lucie-34986,Port Saint Lucie,Port Saint Lucie,85
+34987,56,St. Lucie,St. Lucie-34987,Port Saint Lucie,Port Saint Lucie,46
+34988,56,St. Lucie,St. Lucie-34988,Port Saint Lucie,Port Saint Lucie,-2
+34990,43,Martin,Martin-34990,Palm City,Palm City,90
+34990,56,St. Lucie,St. Lucie-34990,Palm City,,0
+34994,43,Martin,Martin-34994,Stuart,Stuart,235
+34996,43,Martin,Martin-34996,Stuart,Stuart,43
+34997,43,Martin,Martin-34997,Stuart,Stuart,453
+43,9991,Dade,Dade-00043,NONE,,0
+32323,19,Franklin,Franklin-32323,Lanark Village,SUPPRESSED,-3
+32815,64,Volusia,Volusia-32815,,,0
